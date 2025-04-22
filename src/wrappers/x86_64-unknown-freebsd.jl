@@ -3,7 +3,7 @@ export libxlsxwriter
 
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("libxlsxwriter")
-JLLWrappers.@declare_library_product(libxlsxwriter, "libxlsxwriter.so.7")
+JLLWrappers.@declare_library_product(libxlsxwriter, "libxlsxwriter.so.9")
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll)
     JLLWrappers.@init_library_product(

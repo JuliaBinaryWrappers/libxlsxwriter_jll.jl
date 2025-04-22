@@ -3,12 +3,12 @@ export libxlsxwriter
 
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("libxlsxwriter")
-JLLWrappers.@declare_library_product(libxlsxwriter, "@rpath/libxlsxwriter.7.dylib")
+JLLWrappers.@declare_library_product(libxlsxwriter, "@rpath/libxlsxwriter.9.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll)
     JLLWrappers.@init_library_product(
         libxlsxwriter,
-        "lib/libxlsxwriter.7.dylib",
+        "lib/libxlsxwriter.9.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
