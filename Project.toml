@@ -1,6 +1,6 @@
 name = "libxlsxwriter_jll"
 uuid = "90251a59-ee77-57fd-870b-ce07edc5a5b6"
-version = "1.2.2+0"
+version = "1.2.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
