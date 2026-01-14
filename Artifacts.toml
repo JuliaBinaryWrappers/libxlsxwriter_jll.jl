@@ -1,152 +1,152 @@
 [[libxlsxwriter]]
 arch = "aarch64"
-git-tree-sha1 = "04df028ead158baac9aa961708d675377d305243"
+git-tree-sha1 = "456e588d584ee8c97d4b620f9152a8a8402fbef6"
 os = "macos"
 
     [[libxlsxwriter.download]]
-    sha256 = "03ac25db1bf2e339591bcc986e9b38c31cf14591b741c075339ede885dac1243"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "40fb2d6f28ad015168076d94aee325799c20789ee382df4c7b83ab2a99c88791"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.aarch64-apple-darwin.tar.gz"
 [[libxlsxwriter]]
 arch = "aarch64"
-git-tree-sha1 = "28ed05f83fc4134c682ff4b9eb111354d7cfd5b9"
+git-tree-sha1 = "469eb56181c0c78130867b2c300de84b2efb2c47"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "8ecea85bbfa0799a18fb256090ddc792753a77f0d4d9ef697544482e704a4ced"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "d2ac7c24ca6d163737917468e062317d4348f12aca36068fc13ac7a45c39cc16"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.aarch64-linux-gnu.tar.gz"
 [[libxlsxwriter]]
 arch = "aarch64"
-git-tree-sha1 = "ededfef5acfdcf8ffc74a01da777d24ebea8d98e"
+git-tree-sha1 = "533a17d1c1121b659aa6bdabb0e9d8a6dc0b41de"
 libc = "musl"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "f69c060c88aa41cd3226c629fa4be2713b08d93514b3d29712da8492eeb2e905"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.aarch64-linux-musl.tar.gz"
+    sha256 = "d240c176e66029bc22fea208dac493d810e455371109faf9869be9252fb5980c"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.aarch64-linux-musl.tar.gz"
 [[libxlsxwriter]]
 arch = "aarch64"
-git-tree-sha1 = "84c1f1b4fa8ce3a3ae400228a85d0c50c915b621"
+git-tree-sha1 = "e7c9f23d751c97ad9366a87b5db2f95110281f0b"
 os = "freebsd"
 
     [[libxlsxwriter.download]]
-    sha256 = "695a6cd36fd2f1ec8cdc1e2b3139266cd0dbdce0b0d464c394476451e437a19b"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "d1ce82ece70576218cf8dadd8111b54d23b0bc243b0b10877d2c6cdd75464cd4"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.aarch64-unknown-freebsd.tar.gz"
 [[libxlsxwriter]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e01cb42f88e1565270569bc0acced1a17cf68596"
+git-tree-sha1 = "eec40a79552f018e8c9ae64bb92546c4b569c915"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "3597b814838da53aea441e7951c41e98fb5f285990b24651961492c7795a3c46"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "a21cb8f37341dbdf10d8d1077d4abc3ab184535059264085a9160bb5ba10aec6"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.armv6l-linux-gnueabihf.tar.gz"
 [[libxlsxwriter]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fd6917caa6a1aa0f1e11184f462094793d171e78"
+git-tree-sha1 = "bba783959f8c89af736a4988b67bd89461fd8da0"
 libc = "musl"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "6ffe979c4ed0e5373c62604622c53e9c9316a6e89cec235d99eaa106f2201934"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "eabcb22dd3f8b4d08a3cc9c373b8b8fc9c2acec9e503cbec91d6e268577b6c38"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.armv6l-linux-musleabihf.tar.gz"
 [[libxlsxwriter]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "acae6cf7093214748b4f51d0d0d719e7cbb2e388"
+git-tree-sha1 = "016ce9bcf0e43097465ee3b0d2eb94df36d1f9b6"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "59cf9ab268d7413b062ed018a178ee2162ba5ae877d0d3e30ddc19834325e5ce"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "fa536304bb7e2ef85bb8b0fa5ea4b396cc17722bac5dcab281aaecc3a85e5526"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.armv7l-linux-gnueabihf.tar.gz"
 [[libxlsxwriter]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "430c1616463f56ff46a594a4621936880562e6c3"
+git-tree-sha1 = "86efc16c52ede88cac009c8f9c257515107e0b39"
 libc = "musl"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "c52a55fc37e86bf22470a0240ef3036532039c305ded44032abe51bce348cc7f"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "ee7560576f9f5780a7b78956281b80538b161d81d8750d04e158d357a88bbacf"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.armv7l-linux-musleabihf.tar.gz"
 [[libxlsxwriter]]
 arch = "i686"
-git-tree-sha1 = "5768af7ec6a356a091ee3b189742dd0ced18d0db"
+git-tree-sha1 = "0191a70526a49f5dbde0e2f1b79cfbaa8fa7e983"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "9cf608dd9376ac78ba2ea2155277a63a44f37597c751ad65034059bac93b2cec"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.i686-linux-gnu.tar.gz"
+    sha256 = "61a924db8049b73ea7e72577fd79ff3a1b4b9897a52e6b6a72f04f72340f3ea9"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.i686-linux-gnu.tar.gz"
 [[libxlsxwriter]]
 arch = "i686"
-git-tree-sha1 = "dea89bf1d1f065426b4d206b6ca9102c5986a39e"
+git-tree-sha1 = "2d0014c460b42c6c42e6a1900e8e457d2906aebf"
 libc = "musl"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "f444ca7a912ed9620cf28721198d10b0245b3fcef38995c3370f44e28c03236c"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.i686-linux-musl.tar.gz"
+    sha256 = "ff5cd7a97c4b79a27c1828ea1f9a8a745cfe6f07428e6a879b14301ae40d2bc1"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.i686-linux-musl.tar.gz"
 [[libxlsxwriter]]
 arch = "powerpc64le"
-git-tree-sha1 = "88683da3db0215ffb4384556a79fa37deacb425a"
+git-tree-sha1 = "c9481b88f45937d8da2aeeab8cf19cacf89fb12f"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "72bdfc1f7d5d25470bf8b3c900bf09cc63ba325c3e0255cee1ed8fc03cc6d92c"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8283ae241f499c21ba6258ecaebc150c75aace124fb3041e4d1923838ffab2b5"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.powerpc64le-linux-gnu.tar.gz"
 [[libxlsxwriter]]
 arch = "riscv64"
-git-tree-sha1 = "c454e8b897cba45dbef14e37dd409b0ef04c8ec7"
+git-tree-sha1 = "f1d2f4d487e327c3a4f25f5bdcf06ab28e495025"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "8fa07856c46ac21df30d012d9624cd7e9a314d7363e2c18a8a4b21a3be3521cf"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.riscv64-linux-gnu.tar.gz"
+    sha256 = "ee4bad7ee18289ccd8fad19aaeca49a3676ba2fd4e467692500facca65567d31"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.riscv64-linux-gnu.tar.gz"
 [[libxlsxwriter]]
 arch = "x86_64"
-git-tree-sha1 = "387245bc25112a0e935fd1addd810d3d52355039"
+git-tree-sha1 = "d9afa4b5b4a1a543299cb17d88bdb1b3dc26420a"
 os = "macos"
 
     [[libxlsxwriter.download]]
-    sha256 = "2e2207b6cd92ec3bf9519c3305aa344d3ddf22fc9bce1930f826ce9727ce6156"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "f7ee9071388b7fd3468c11b45ce1c6a8971195be93469957b5afdcb6eed87e65"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.x86_64-apple-darwin.tar.gz"
 [[libxlsxwriter]]
 arch = "x86_64"
-git-tree-sha1 = "17eeec3b6444669ed1e65c87ab6e986bd7769828"
+git-tree-sha1 = "9312a84929a6f71f04cbbbdf82faa016c45da2f4"
 libc = "glibc"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "02c90c26dc332fda5c77a99d99e10691ca5a131bbb7605d60c311ad6e814da4b"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "8ec009c68146c19fc497f9c77d10b6993e3b009a1224dcfbcdd6ca1b5ba9704a"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.x86_64-linux-gnu.tar.gz"
 [[libxlsxwriter]]
 arch = "x86_64"
-git-tree-sha1 = "7c4bf9830989d1bb9399cfcd407e86cadfa89aaf"
+git-tree-sha1 = "077e6c322c115a8a40bbef9c973c2242626673ad"
 libc = "musl"
 os = "linux"
 
     [[libxlsxwriter.download]]
-    sha256 = "0fe80640d1a25d143e82ce8c09725d8d88d18dbc205185eb0608be3fc20e59ed"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.x86_64-linux-musl.tar.gz"
+    sha256 = "fb2f778b2b9f297de3491338a85a0a5c7f69f51319e6e394a1799b0903ba792f"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.x86_64-linux-musl.tar.gz"
 [[libxlsxwriter]]
 arch = "x86_64"
-git-tree-sha1 = "01c62b257d0151865c09dca8e53693ed8dc1b6ae"
+git-tree-sha1 = "c19ddcc2301c9f23367dd98bac4acbeb86d8d4b3"
 os = "freebsd"
 
     [[libxlsxwriter.download]]
-    sha256 = "ccd7091e057d25dd8e20043d7025bbd8dcaeb4b813b19a2de694c97acab27012"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4b8be87fcfeaff695395a2e3256c52755ba914fcce9f36542a83bd5e3db54f71"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.x86_64-unknown-freebsd.tar.gz"
 [[libxlsxwriter]]
 arch = "x86_64"
-git-tree-sha1 = "42139a949d7f0be59992bfc500be1776ca9e2c55"
+git-tree-sha1 = "13b77320dd5fb99513b8610fe88127032c2a2239"
 os = "windows"
 
     [[libxlsxwriter.download]]
-    sha256 = "4a1e0bd91757ce6f22f3604891eb276888403c7a40beba065a526f50413f275f"
-    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.3+0/libxlsxwriter.v1.2.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "cfcc845fc2bd09a4d4d99b1668b56155247552caf55718fddaae6dcf34dbee88"
+    url = "https://github.com/JuliaBinaryWrappers/libxlsxwriter_jll.jl/releases/download/libxlsxwriter-v1.2.4+0/libxlsxwriter.v1.2.4.x86_64-w64-mingw32.tar.gz"
